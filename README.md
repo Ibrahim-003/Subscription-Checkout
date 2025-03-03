@@ -4,7 +4,7 @@ Este proyecto es una página web de proceso de suscripción, diseñada para ofre
 
 ## Vista Previa
 
-![Captura del Proyecto](./assets/images/desktop-preview.png)
+![Captura del Proyecto](./src/assets/images/desktop-preview.avif)
 
 Puedes ver la versión demo en vivo aquí: [Subscription Checkout](https://ibrahim-003.github.io/Subscription-Checkout/)
 

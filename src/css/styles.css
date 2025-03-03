@@ -27,13 +27,18 @@ html {
     color: var(--deep-midnight-blue);
 }
 
+.root-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
 .main-content {
     width: 100%;
     max-width: 1208px;
-    min-height: 100vh;
     margin: 0 auto;
     background-color: var(--pura-white);
-    /* padding: var(--font-size-base); */
     display: flex;
     flex-direction: column;
 }
@@ -176,7 +181,7 @@ html {
     width: 100%;
     max-width: 720px;
     margin: 0 auto;
-    padding: 2.5rem 0.65rem;
+    padding: 2.5rem 1.25rem;
     display: flex;
     flex-direction: column;
     gap: 2rem;
