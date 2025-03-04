@@ -4,7 +4,7 @@ Este proyecto es una página web de proceso de suscripción, diseñada para ofre
 
 ## Vista Previa
 
-![Captura del Proyecto](./src/assets/images/desktop-preview.avif)
+![Captura del Proyecto](./src/assets/images/desktop-preview.webp)
 
 Puedes ver la versión demo en vivo aquí: [Subscription Checkout](https://ibrahim-003.github.io/Subscription-Checkout/)
 
@@ -50,6 +50,5 @@ Puedes personalizar esta página modificando los estilos en el archivo `styles.c
 - CSS3
 - Google Fonts
 
-## Autor
-
-Este proyecto fue creado por [Ibrahim Almeyda].
+## Autor 👨‍💻
+Desarrollado por **[Ibrahim Almeyda](https://github.com/Ibrahim-003)**.
